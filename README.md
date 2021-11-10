@@ -1,7 +1,7 @@
 # food
 This project is for the Go project for CL.
 Project name is "Food".
-Overview:
+# Overview:
 Pulling food data which includes several variables for each item, calculate with items meet the input criteria, then list the items.
 
 Requirements met:
@@ -14,6 +14,15 @@ This will satisfy the "Create a dictionary or list, poplate it with several valu
 The ptograme will calculate and display data based on minutes to cook from the list pulled.
 This will satisfy the "Calculate and display data based on an external factor (ex: get the current data, and display how many days remaining until some event).
 
-The program will also include 4 unit tests for the application.
+The program will also include 3 unit tests for the application.
 This will satisfy the "Create 3 or more unit tests for your application".
 
+The program also includes a UX at localhost:8888 that will display the burgers that meet the prep time criteria and their specific recieipe.
+This will satisfy the "Visualize data in a graph, chart, or other visual representation of data" requirement.
+
+# Instructions 
+
+- clone repository: `git clone git@github.com:dcruselex/food.git`
+- run the program: `go run ./cmd/main.go`
+- open the browser and go to [http://localhost:8888](http://localhost:8888)
+- choose time to prep from the pull down and click on the GO button
