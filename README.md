@@ -33,7 +33,7 @@ The program has used 3 ranges of time to prepare, then list the items and presen
     5.2 The program will create a list, populate it with several values retrieved from the API.  Then the program will retrieve a value from the list and use in the program.
         This will satisfy the "Create a dictionary or list, poplate it with several values, retrieve at least one value and use it in your program" requirement.
 
-    5.3 The ptograme will calculate and display data based on minutes to cook from the list pulled.
+    5.3 The program will calculate and display data based on minutes to cook from the list pulled.
         This will satisfy the "Calculate and display data based on an external factor (ex: get the current data, and display how many days remaining until some event).
 
     5.4 The program will also include 3 unit tests for the application.
